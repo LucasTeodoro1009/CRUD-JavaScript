@@ -1,6 +1,6 @@
-# Sistema de Cadastro de Usuários - Sprint 1
+# Sistema de Cadastro de Usuários
 
-Este projeto é um sistema de CRUD (Create, Read, Update, Delete) para gerenciamento de dados de usuários, utilizando JavaScript e localStorage. A avaliação faz parte da primeira sprint do programa de bolsas Compass UOL para formação em machine learning para AWS.
+Este projeto é um sistema de CRUD (Create, Read, Update, Delete) para gerenciamento de dados de usuários, utilizando JavaScript e localStorage.
 
 ## Como o Projeto Foi Desenvolvido
 
@@ -37,11 +37,11 @@ Durante o desenvolvimento, enfrentei as seguintes dificuldades:
 
 1. Clone o repositório para sua máquina local usando:
    
-   `git clone https://github.com/Compass-pb-aws-2024-JULHO-A/sprint-1-pb-aws-julho-a.git`
+   ``
 
 2. Navegue para a pasta do projeto com:
 
-   `cd sprint-1-pb-aws-julho-a`
+   ``
 
 3. Abra o arquivo `index.html` em um navegador para acessar a interface do sistema de cadastro.
 
