@@ -1,0 +1,100 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #eceff1;
+    margin: 0;
+    padding: 0;
+}
+
+.formulario-usuario {
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.formulario-usuario h1, .formulario-usuario h2 {
+    text-align: center;
+    color: #37474f;
+    margin-bottom: 20px;
+}
+
+.formulario-usuario form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.formulario-usuario label {
+    font-weight: 500;
+    color: #37474f;
+}
+
+.formulario-usuario input {
+    padding: 10px;
+    border: 1px solid #b0bec5;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #37474f;
+    background-color: #f5f5f5;
+}
+
+.formulario-usuario button {
+    padding: 12px;
+    background-color: #00acc1;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.formulario-usuario button:hover {
+    background-color: #00838f;
+}
+
+.tabela-usuario {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.tabela-usuario th, .tabela-usuario td {
+    padding: 12px;
+    border: 1px solid #cfd8dc;
+    text-align: center;
+}
+
+.tabela-usuario th {
+    background-color: #b0bec5;
+    color: #37474f;
+}
+
+.acoes-usuario button {
+    margin-right: 5px;
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    color: #ffffff;
+    transition: background-color 0.3s;
+}
+
+.acoes-usuario .editar {
+    background-color: #ffb300;
+}
+
+.acoes-usuario .editar:hover {
+    background-color: #ffa000;
+}
+
+.acoes-usuario .deletar {
+    background-color: #e53935;
+}
+
+.acoes-usuario .deletar:hover {
+    background-color: #d32f2f;
+}
