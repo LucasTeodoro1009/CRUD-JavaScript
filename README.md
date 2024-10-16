@@ -37,11 +37,11 @@ Durante o desenvolvimento, enfrentei as seguintes dificuldades:
 
 1. Clone o repositório para sua máquina local usando:
    
-   ``
+   `https://github.com/LucasTeodoro1009/CRUD-JavaScript.git`
 
 2. Navegue para a pasta do projeto com:
 
-   ``
+   `CRUD-JavaScript`
 
 3. Abra o arquivo `index.html` em um navegador para acessar a interface do sistema de cadastro.
 
